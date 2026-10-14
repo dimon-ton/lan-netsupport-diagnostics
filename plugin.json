@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "lan-netsupport-diagnostics",
+  "version": "0.1.0",
+  "description": "Diagnose LAN Windows clients with router checks and NetSupport School.",
+  "author": {
+    "name": "dimon-ton",
+    "url": "https://github.com/dimon-ton"
+  },
+  "repository": "https://github.com/dimon-ton/lan-netsupport-diagnostics",
+  "keywords": ["lan", "network", "netsupport", "diagnostics"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "LAN & NetSupport Diagnostics",
+        "shortDescription": "Diagnose LAN clients with router and NetSupport School.",
+        "developerName": "dimon-ton",
+        "category": "Productivity"
+      }
+    }
+  }
+}

@@ -3,7 +3,7 @@ name: lan-netsupport-diagnostics
 description: Diagnose Internet problems on LAN Windows clients, including router WAN health, client reachability, NetSupport School remote diagnostics, and false Windows “No Internet” status.
 ---
 
-# Lan Netsupport Diagnostics
+# LAN NetSupport Diagnostics
 
 Use this skill when the user asks to diagnose LAN computers that cannot reach the Internet, or Windows clients that display a false “No Internet” indicator. It supports environments that use a router web interface and NetSupport School for authorized remote administration.
 
