@@ -1,0 +1,3 @@
+interface:
+  display_name: "LAN & NetSupport Diagnostics"
+  short_description: "Diagnose LAN clients with router and NetSupport School."
