@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "lan-netsupport-diagnostics",
-  "version": "0.1.0",
-  "description": "Diagnose LAN Windows clients with router checks and NetSupport School.",
+  "version": "0.1.1",
+  "description": "Diagnose authorized LAN clients and inventory with router checks and NetSupport School.",
   "author": {
     "name": "dimon-ton",
     "url": "https://github.com/dimon-ton"
